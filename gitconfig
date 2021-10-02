@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lmoralbaena@gmail.com
+	name = Lucia Moral
